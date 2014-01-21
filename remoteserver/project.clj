@@ -3,7 +3,7 @@
   :url "http://example.com/FIXME"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
-  :dependencies [[org.clojure/clojure "1.5.0-master-SNAPSHOT"]
+  :dependencies [[org.clojure/clojure "1.6.0-master-SNAPSHOT"]
                  [commoninterfaces "0.1.0-SNAPSHOT"]]
   :source-paths ["src" "src/main/clojure"]
   :java-source-paths ["src/main/java"] ; Java source is stored separately.
